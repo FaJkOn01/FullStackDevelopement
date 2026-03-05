@@ -1,0 +1,16 @@
+p{
+    font-family: Fantasy;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+@font-face {
+    font-family: 'coder';
+    src: url(fonts/SemiCoderT.ttf);
+}
+
+h2{
+    font-family: 'coder';
+}
