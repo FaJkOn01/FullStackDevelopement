@@ -1,0 +1,9 @@
+#id111{
+    position: static;
+}
+#id222{
+    position: absolute;
+}
+#id333{
+    position: relative;
+}

@@ -1,0 +1,8 @@
+ul{
+    list-style-type: circle;
+    background-color: blue;
+}
+ol{
+    list-style-type: upper-roman;
+    background-color: skyblue;
+}
