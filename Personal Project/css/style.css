@@ -42,6 +42,8 @@ h1{
 .f2{
     padding-bottom: 20px;
     background-color: white;
+    height: 500px;
+
 }
 
 #p1{
@@ -129,9 +131,22 @@ nav ul li{
     background-color: black;
     padding-bottom: 25px;
     padding-top: 25px;
+    text-align: center;
 }
 
 #p2{
 
     color: white;
+    text-align: center;
 }
+
+.div{
+    display: flex;
+    background-color: white;
+    justify-content: space-around;
+
+
+
+}
+
+
