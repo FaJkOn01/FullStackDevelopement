@@ -1,0 +1,28 @@
+.circle{
+    background-color: green;
+    transition: 1s ease;
+    transform: scale(1.2);
+    text-align: center;
+    
+}
+.square{
+    background-color: green;
+    transition: 1s ease;
+    transform: scale(1.2);
+    text-align: center;
+    
+}
+.rectangle{
+    background-color: green;
+    transition: 1s ease;
+    transform: scale(1.2);
+    text-align: center;
+    
+}
+.triangle{
+    transition: 1s ease;
+    transform: scale(1.2);
+    text-align: center;
+    
+}
+
