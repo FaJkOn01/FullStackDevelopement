@@ -1,0 +1,13 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+}
+
+.d1{
+    display: flex;
+}
+
+#div1{
+    width: 100%;
+    display: flex;
+}
